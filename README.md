@@ -23,7 +23,7 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/115024131/195157735-a821d693-8e5b-47de-8851-b5e6c456ad3b.gif">
 </div>
   
- ![XOsa](https://user-images.githubusercontent.com/115024131/195157735-a821d693-8e5b-47de-8851-b5e6c456ad3b.gif)
+ ![9bc27292880429 5e569ff84e4d0](https://user-images.githubusercontent.com/115024131/195161668-9dce47d3-e9fe-4001-a4d7-63cd0348d8d3.gif)
   
    ![Snake animation](https://github.com/GabrielPioDEV/GabrielPioDEV/blob/output/github-contribution-grid-snake.svg)
   <div> 
