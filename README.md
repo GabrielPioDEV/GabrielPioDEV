@@ -1,7 +1,4 @@
-### Ola sou Gabriel pio
-
-- 🔭 Atualmente sou Estuddante dde Analise e Desenvolvimento de Sistemas
-- 😄 pronomes: ele/dele
+### Oi!!! sou Gabriel Pio, Estudante de Analise e Desenvolvimento de Sistemas
 
 
 
