@@ -1,4 +1,4 @@
-### Oi!!! sou Gabriel Pio, Estudante de Analise e Desenvolvimento de Sistemas
+### Oi!!! sou Gabriel Pio, Formado em  Analise e Desenvolvimento de Sistemas
 
 
 <div align="center">
