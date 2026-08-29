@@ -1,13 +1,6 @@
-### Oi!!! sou Gabriel Pio, Formado em  Analise e Desenvolvimento de Sistemas
+### Oi!!! sou Gabriel Pio, Formado em  Analise e Desenvolvimento de Sistemas 
 
 
-<div align="center">
-  <a href="https://github.com/GabrielPioDEV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPioDEV&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-    <br>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPioDEV&layout=compact&langs_count=6&theme=cobalt"/>
-    
-</div>
 
 
   ##
@@ -25,7 +18,7 @@
   
  ![9bc27292880429 5e569ff84e4d0](https://user-images.githubusercontent.com/115024131/195161668-9dce47d3-e9fe-4001-a4d7-63cd0348d8d3.gif)
   
-   ![Snake animation](https://github.com/GabrielPioDEV/GabrielPioDEV/blob/output/github-contribution-grid-snake.svg)
+  
   <div> 
 
   <a href="https://instagram.com/piogabriel_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
